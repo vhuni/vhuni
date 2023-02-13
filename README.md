@@ -57,7 +57,7 @@ Link to some of the ML technologies I used
 
 <div>
     <a href="https://www.fullstackpython.com/react.html">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="%5"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="5%"/>
     </a>
     <a href="https://www.python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="5%"/>
