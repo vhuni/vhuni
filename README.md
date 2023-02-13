@@ -32,7 +32,7 @@ I worked on projects related to machine learning during my post-graduate studies
 
 
 
-## Features
+<!-- ## Features
 
 - Light/dark mode toggle
 - Live previews
@@ -43,9 +43,9 @@ I worked on projects related to machine learning during my post-graduate studies
 ## Demo
 
 Insert gif or link to demo
+-->
 
-
-## Documentation
+## Dev Tools Used
 
 [Documentation Here](https://linktodocumentation)
 
@@ -70,5 +70,5 @@ To deploy this project run
 
 ## Authors
 
-- [@UserName](https://www.github.com/UserName)
+- [@vhuni](https://www.github.com/vhuni)
 
