@@ -50,7 +50,7 @@ Link to some of the popular ML technologies in github
     </a>
 </div>  
 
-# And a bit of..
+### And a bit of..
 
 <div>
     <a href="https://code.visualstudio.com/docs">
