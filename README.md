@@ -22,9 +22,14 @@ Here are some ideas to get you started:
 
 
 
-# Project Title
+# Project Worked On
 
-A brief description of what this project does and who it's for
+I worked on projects related to machine learning during my post-graduate studies. 
+
+| Name | Description | Dev Tools |
+| ---- | ----------- | --------- |
+| mask-detection | sample | python |
+
 
 
 ## Features
