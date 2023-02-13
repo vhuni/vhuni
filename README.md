@@ -38,8 +38,8 @@ Link to some of the popular ML technologies in github
     <a href="https://github.com/huggingface/transformers">
         Natural Language Processing
     </a>
-    <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/>
+    <a href="https://github.com/ultralytics/yolov5">
+        YOLOv5
     </a>
 </div>  
 
