@@ -32,11 +32,13 @@ I worked on projects related to machine learning during my post-graduate studies
 
 # Machine Learning Technologies
 
-Link to some of the popular ML technologies in github
+Link to some of the ML technologies I used
 
 * [Natural Language Processing](https://github.com/huggingface/transformers)
 * [YOLOv5](https://github.com/ultralytics/yolov5)
-
+* [RCNN](https://github.com/matterport/Mask_RCNN)
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* 
 
 
 ## Dev Tools Used
@@ -48,16 +50,17 @@ Link to some of the popular ML technologies in github
     <a href="https://www.python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/>
     </a>
+    
 </div>  
 
 ### And a bit of..
 
 <div>
-    <a href="https://code.visualstudio.com/docs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="5%"/>
+    <a href="https://www.fullstackpython.com/react.html">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="%5"/>
     </a>
     <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="5%"/>
     </a>
 </div>  
 
