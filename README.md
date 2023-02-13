@@ -34,6 +34,8 @@ I worked on projects related to machine learning during my post-graduate studies
 
 Link to some of the popular ML technologies in github
 
+* [Train Custom Data](https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data)
+* 
 <div>
     <a href="https://github.com/huggingface/transformers">
         Natural Language Processing
