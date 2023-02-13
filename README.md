@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-🌱 I’m a Computer engineering graduate with Machine Learning experience
-🤔 I'm interested in AI, data and software development
-🔭 I’m currently learning Data engineering 
+- 🌱 I’m a Computer engineering graduate with Machine Learning experience
+- 🤔 I'm interested in AI, data and software development
+- 🔭 I’m currently learning Data engineering 
