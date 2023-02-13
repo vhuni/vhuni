@@ -30,6 +30,20 @@ I worked on projects related to machine learning during my post-graduate studies
 | ---- | ----------- | --------- |
 | mask-detection | image detection with YOLOv5 | python |
 
+# Machine Learning Technologies
+
+Link to some of the popular ML technologies in github
+
+<div>
+    <a href="https://github.com/huggingface/transformers">
+        Natural Language Processing
+    </a>
+    <a href="https://www.python.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/>
+    </a>
+</div>  
+
+
 
 ## Dev Tools Used
 
