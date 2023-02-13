@@ -48,7 +48,7 @@ Insert gif or link to demo
 ## Dev Tools Used
 
 <div>
-    <a href="https://code.visualstudio.com/docsb">
+    <a href="https://code.visualstudio.com/docs">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="10%"/>
     </a>
     <a href="https://www.python.org/">
