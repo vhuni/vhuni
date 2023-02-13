@@ -19,3 +19,51 @@ Here are some ideas to get you started:
 - 🌱 I’m a Computer engineering graduate with Machine Learning experience
 - 🤔 I'm interested in AI, data and software development
 - 🔭 I’m currently learning Data engineering 
+
+
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+
+## Features
+
+- Light/dark mode toggle
+- Live previews
+- Fullscreen mode
+- Cross platform
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+## Documentation
+
+[Documentation Here](https://linktodocumentation)
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm run deploy
+```
+
+
+## Authors
+
+- [@UserName](https://www.github.com/UserName)
+
