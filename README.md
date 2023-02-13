@@ -35,10 +35,10 @@ I worked on projects related to machine learning during my post-graduate studies
 
 <div>
     <a href="https://code.visualstudio.com/docs">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="10%"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="5%"/>
     </a>
     <a href="https://www.python.org/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="10%"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/>
     </a>
 </div>  
 
