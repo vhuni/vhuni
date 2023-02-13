@@ -44,7 +44,11 @@ I worked on projects related to machine learning during my post-graduate studies
 
 
 
-## Authors
+## Connect with me
 
-- [@vhuni](https://www.github.com/vhuni)
+<div>
+    <a href="https://www.linkedin.com/in/blabinghisa/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="5%"/>
+    </a>
+</div>  
 
