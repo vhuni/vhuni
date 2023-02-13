@@ -31,20 +31,6 @@ I worked on projects related to machine learning during my post-graduate studies
 | mask-detection | image detection with YOLOv5 | python |
 
 
-
-<!-- ## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
-## Demo
-
-Insert gif or link to demo
--->
-
 ## Dev Tools Used
 
 <div>
@@ -56,23 +42,6 @@ Insert gif or link to demo
     </a>
 </div>  
 
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## Authors
