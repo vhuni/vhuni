@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a Computer engineering graduate with Machine Learning experience
 - 🤔 I'm interested in AI, data and software development
-- 🔭 I’m currently learning Data engineering 
+- 🔭 I’m currently learning Data engineering and cloud technology 
+
+# 
+I'm interested on how these different technologies come together to build something meaningful and just totally amazing. Before, I just researched and made publications on different machine learning and never really turned it into an actual application. I delved into data engineering to understand more on how the data I fed into my machine learning models are gathered, cleaned and transformed. I would like to experience more of creating a data pipeline and eventually turning it into an active application and not just texts and numbers!
 
 
 
@@ -29,6 +32,9 @@ I worked on projects related to machine learning during my post-graduate studies
 | Name | Description | Dev Tools |
 | ---- | ----------- | --------- |
 | mask-detection | image detection with YOLOv5 | python |
+| grammar-correction | NLP with BErt model | python, flask|
+| image super-resolution | autoencoder for image enhancement | python, keras |
+| random-name generator | python random library to select from inputted names | python |
 
 # Machine Learning Technologies
 
@@ -38,8 +44,7 @@ Link to some of the ML technologies I used
 * [YOLOv5](https://github.com/ultralytics/yolov5)
 * [RCNN](https://github.com/matterport/Mask_RCNN)
 * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-* 
-
+* [Fault Detection](https://github.com/plutoyuxie/AutoEncoder-SSIM-for-unsupervised-anomaly-detection-)
 
 ## Dev Tools Used
 
@@ -50,7 +55,19 @@ Link to some of the ML technologies I used
     <a href="https://www.python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="5%"/>
     </a>
-    
+    <a href="https://www.docker.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="5%"/>
+    </a>
+    <a href="https://www.mongodb.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="5%"/>
+    </a>
+    <a href="https://jupyter.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="5%"/>
+    </a>
+    <a href="https://www.tensorflow.org/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="5%"/>
+    </a>
+
 </div>  
 
 ### And a bit of..
@@ -59,8 +76,14 @@ Link to some of the ML technologies I used
     <a href="https://www.fullstackpython.com/react.html">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="5%"/>
     </a>
-    <a href="https://www.python.org/">
+    <a href="[https://www.python.org/](https://flask.palletsprojects.com/en/2.2.x/)">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="5%"/>
+    </a>
+<!--     <a href="https://www.javascript.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%"/>
+    </a>  -->
+        <a href="https://www.mysql.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%"/
     </a>
 </div>  
 
