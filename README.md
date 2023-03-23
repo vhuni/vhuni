@@ -83,8 +83,11 @@ Link to some of the ML technologies I used
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="5%"/>
     </a>  -->
         <a href="https://www.mysql.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%"/
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="5%"/>
     </a>
+    <a href="https://aws.amazon.com/">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>
+            </a>
 </div>  
 
 ## Connect with me
