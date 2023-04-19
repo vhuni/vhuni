@@ -35,6 +35,7 @@ I worked on projects related to machine learning during my post-graduate studies
 | grammar-correction | NLP with BErt model | python, flask|
 | image super-resolution | autoencoder for image enhancement | python, keras |
 | random-name generator | python random library to select from inputted names | python |
+| stock price prediction | automated stock price daily prediction | AWS, tensorflow, python |
 
 # Machine Learning Technologies
 
