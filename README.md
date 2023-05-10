@@ -25,9 +25,9 @@ I'm interested on how these different technologies come together to build someth
 
 
 
-# Project Worked On
+# Projects
 
-I worked on projects related to machine learning during my post-graduate studies. 
+Projects related to machine learning and everything else. 
 
 | Name | Description | Dev Tools |
 | ---- | ----------- | --------- |
@@ -36,6 +36,7 @@ I worked on projects related to machine learning during my post-graduate studies
 | image super-resolution | autoencoder for image enhancement | python, keras |
 | random-name generator | python random library to select from inputted names | python |
 | stock price prediction | automated stock price daily prediction | AWS, tensorflow, python |
+| stable-diffusion + controlnet in cloud | AI txt2img/img2img generator using AWS | AWS, Stable Diffusion, ControlNet, python, pytorch | 
 
 # Machine Learning Technologies
 
