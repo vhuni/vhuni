@@ -32,7 +32,7 @@ Projects related to machine learning and everything else.
 | Name | Description | Dev Tools |
 | ---- | ----------- | --------- |
 | mask-detection | image detection with YOLOv5 | python |
-| grammar-correction | NLP with BErt model | python, flask|
+| grammar-correction | NLP with BERT model | python, flask|
 | image super-resolution | autoencoder for image enhancement | python, keras |
 | random-name generator | python random library to select from inputted names | python |
 | stock price prediction | automated stock price daily prediction | AWS, tensorflow, python |
