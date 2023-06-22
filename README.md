@@ -25,7 +25,7 @@ I'm interested on how these different technologies come together to build someth
 
 <img align="center" src="https://user-images.githubusercontent.com/43030048/247966237-4e201b74-1d1f-4f74-9e16-6f5c3d560877.png" width="20%" title="QR code">
 
-Scan QR code or click the [link](https://s3.console.aws.amazon.com/s3/object/v11-portfolio?region=us-east-2&prefix=index.html) to visit my portfolio website.
+Scan QR code or click the [link](https://v11-portfolio.s3.us-east-2.amazonaws.com/index.html) to visit my portfolio website.
 
 # Projects
 
