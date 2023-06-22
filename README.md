@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 # 
 I'm interested on how these different technologies come together to build something meaningful and just totally amazing. Before, I just researched and made publications on different machine learning and never really turned it into an actual application. I delved into data engineering to understand more on how the data I fed into my machine learning models are gathered, cleaned and transformed. I would like to experience more of creating a data pipeline and eventually turning it into an active application and not just texts and numbers!
 
+<img align="center" src="https://user-images.githubusercontent.com/43030048/247966237-4e201b74-1d1f-4f74-9e16-6f5c3d560877.png" width="20%" title="QR code">
 
+Scan QR code or click the [link](https://s3.console.aws.amazon.com/s3/object/v11-portfolio?region=us-east-2&prefix=index.html) to visit my portfolio website.
 
 # Projects
 
