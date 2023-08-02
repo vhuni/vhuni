@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a Computer engineering graduate with Machine Learning experience
 - 🤔 I'm interested in AI, data and software development
-- 🔭 I’m currently learning Data engineering and cloud technology 
+- 🔭 I’m currently learning Data engineering and cloud technology
+
 
 # 
 I'm interested on how these different technologies come together to build something meaningful and just totally amazing. Before, I just researched and made publications on different machine learning and never really turned it into an actual application. I delved into data engineering to understand more on how the data I fed into my machine learning models are gathered, cleaned and transformed. I would like to experience more of creating a data pipeline and eventually turning it into an active application and not just texts and numbers!
@@ -26,6 +27,7 @@ I'm interested on how these different technologies come together to build someth
 <img align="center" src="https://user-images.githubusercontent.com/43030048/247966237-4e201b74-1d1f-4f74-9e16-6f5c3d560877.png" width="20%" title="QR code">
 
 Scan QR code or click the [link](https://v11-portfolio.s3.us-east-2.amazonaws.com/index.html) to visit my portfolio website.
+
 
 # Projects
 
@@ -93,6 +95,7 @@ Link to some of the ML technologies I used
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="5%"/>
             </a>
 </div>  
+
 
 ## Connect with me
 
