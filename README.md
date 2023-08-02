@@ -24,12 +24,17 @@ Here are some ideas to get you started:
 # 
 I'm interested on how these different technologies come together to build something meaningful and just totally amazing. Before, I just researched and made publications on different machine learning and never really turned it into an actual application. I delved into data engineering to understand more on how the data I fed into my machine learning models are gathered, cleaned and transformed. I would like to experience more of creating a data pipeline and eventually turning it into an active application and not just texts and numbers!
 
-<img align="center" src="https://user-images.githubusercontent.com/43030048/247966237-4e201b74-1d1f-4f74-9e16-6f5c3d560877.png" width="20%" title="QR code">
-
 ![](https://komarev.com/ghpvc/?username=vhuni)
 
-Scan QR code or click the [link](https://v11-portfolio.s3.us-east-2.amazonaws.com/index.html) to visit my portfolio website.
+<p align="center">
+<img align="center" src="https://user-images.githubusercontent.com/43030048/247966237-4e201b74-1d1f-4f74-9e16-6f5c3d560877.png" width="20%" title="QR code">
+</p>
 
+<div align="center">
+  <b>Scan QR code or click the:</b><br>
+  <a href="https://v11-portfolio.s3.us-east-2.amazonaws.com/index.html">Link </a> 
+  <br>
+</div>
 
 # Projects
 
@@ -43,6 +48,7 @@ Projects related to machine learning and everything else.
 | random-name generator | python random library to select from inputted names | python |
 | stock price prediction | automated stock price daily prediction | AWS, tensorflow, python |
 | stable-diffusion + controlnet in cloud | AI txt2img/img2img generator using AWS | AWS, Stable Diffusion, ControlNet, python, pytorch | 
+| data pipeline orchestration | automated web scraping and data visualization | Apache Airflow, python, AWS, Streamlit.io |
 
 # Machine Learning Technologies
 
